@@ -11,7 +11,7 @@
 		v-for	循环
 		v-if	判断
 		v-show	展示
-		const 	计算属性
+		computed计算属性
 	-->
 <body>
 	<div id="app">

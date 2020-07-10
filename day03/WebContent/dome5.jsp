@@ -49,7 +49,7 @@
 	</div>
 </body>
 <script type="text/javascript">
-
+ 
 	var app=new Vue({
 		el:"#app",
 		//属性
